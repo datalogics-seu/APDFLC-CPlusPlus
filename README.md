@@ -14,3 +14,6 @@ APDFL C++ samples -- Derived from demos, blogs or other sources
   
 ** ReplaceFont -- replaces a reference to Helvetica to a reference to Courier. Includes a search through a Form XOject.
   -- v15.0.4
+
+** Missing: Extract Text XY order (bc)
+** Replace font in Resources (bc)
