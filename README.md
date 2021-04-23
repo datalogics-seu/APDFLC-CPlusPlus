@@ -5,7 +5,7 @@ APDFL C++ samples -- Derived from demos, blogs or other sources
 ** ConvertColors -- converts the elements in the PDF to the target ICC profile or to an internal profile. 
   -- Demonstrates PDDocColorConvertPage() and PDDocColorConvertPageEx()
   -- See the Acrobat -> Tools -> Print Production -> Color Convert menu for related functionality
-  -- v15.0.4
+  -- v15.0.4.  Needs update BC correction
 
 ** CosStreamSetDataSnippet -- modifies a cos object with CosStreamSetData(). CosID stays the same. 
   -- old API that Adobe depracated but DL ressurected
