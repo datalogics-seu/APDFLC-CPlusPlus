@@ -19,6 +19,9 @@ APDFL C++ samples -- Derived from demos, blogs or other sources
 ** ReplaceFont -- replaces a reference to Helvetica to a reference to Courier. Includes a search through a Form XOject.
   -- v15.0.4
   -- Superceded by PDDocReplaceSimpleFonts() API added in v18.0.3
+  
+** TextSearch-HighlightAnnotAP -- extends the TextSearch.cpp sample to add an appearance stream for the highlight annot. 
+  -- v18.0.3
 
 ** Missing: Extract Text XY order (bc)
 ** Replace font in Resources (bc)
